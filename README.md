@@ -1,4 +1,4 @@
-##ZnWP Localhost Drop-In
+## ZnWP Localhost Drop-In
 
 This WordPress drop-in allows WordPress installations to be run on localhost with port, eg. 127.0.0.1:8888.
 
